@@ -12,5 +12,8 @@
     "concurrently": "^8.2.2",
     "nodemon": "^3.1.0",
     "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2"
   }
 }
